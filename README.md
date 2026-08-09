@@ -5,7 +5,7 @@
 I design and deliver production-oriented web platforms, operational automation, and infrastructure for real business workflows. My work spans secure APIs, modern frontend applications, CRM integrations, background processing, containerized deployment, and ELV-focused digital systems.
 
 [![Website](https://img.shields.io/badge/Website-hamavaelv.ir-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://hamavaelv.ir)
-[![Email](https://img.shields.io/badge/Email-fartash%40baxsite.ir-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:fartash@baxsite.ir)
+[![Email](https://img.shields.io/badge/Email-fartash%40baxsite.ir-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:fartash@hamavaelv.ir)
 
 ## What I build
 
