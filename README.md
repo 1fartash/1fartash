@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fartash Mirmasoumi | فرتاش میرمصومی
+# Fartash Mirmasoumi | فرتاش
 ### Full-Stack Software Engineer · Backend, Automation & DevOps
 
 **I build the software behind real business operations — from usable interfaces to reliable APIs, integrations and infrastructure.**
